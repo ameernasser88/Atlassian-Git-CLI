@@ -1,3 +1,13 @@
-#push local repo to remote repo
-
+#connect to remote repo
+	       Alias
 git remote add origin https://github.com/ameernasser88/Atlassian-Git-CLI.git
+
+
+#push to remote repo 1st time -u -> set upstream ( track )
+	    dest   source
+git push -u origin master
+
+
+
+
+
