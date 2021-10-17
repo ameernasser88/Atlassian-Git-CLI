@@ -1,0 +1,3 @@
+#push new local branch to origin
+
+git push -u origin <branch-name>
